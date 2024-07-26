@@ -1,5 +1,4 @@
-# Tentative Schedule
-<img src="Course Details/Content.png" alt="Course Content"/>
+
 
 # Material
 This provides codes for the practical sessions of the AI for Urban Flooding course given by Ashok Dahal. To open each excercise click on the following links:
